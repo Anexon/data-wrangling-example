@@ -1,0 +1,7 @@
+{
+    "project_name": "Proyecto de Minería de datos usando la API de Twitter",
+    "tags": ["Python", "Pandas", "Matplotlib", "Numpy", "Jupyter", "Data Wrangling", "Tweepy"],
+    "description": "Notebook en el que se realiza una exploración del dataset WeRateDogs ampliando información con la API de twitter y un archivo de predicción de la raza del perro a partir de la foto subida a Twitter.",
+    "live_demo_url": "https://github.com/Anexon/fbi-gun-dataset-investigation/blob/master/FBI_gun_dataset_Investigation.ipynb",
+    "repository_url": "https://github.com/Anexon/data-wrangling-example/blob/master/data-wrangling.ipynb"
+}
